@@ -157,8 +157,7 @@ void loop()
   nanoesp.closeConnection(0);
 
   //warten bis zur nächsten Messung
-  //delay(600000);
-  delay(200);
+  delay(3578500);
 }
 
 unsigned int meassure()

@@ -1,0 +1,53 @@
+.header {
+    text-decoration: none;
+    color: white;
+}
+
+.impressumText {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.kreis {
+    border-radius: 50%;
+}
+
+.div_right {
+    width: 50%;
+
+    display: -webkit-flex;
+    display: flex;
+
+    flex-wrap: wrap;
+
+    align-items: center;
+    justify-content: flex-start;
+
+    flex-grow: 1;
+    order: 2;
+
+
+}
+
+.div_left {
+    width: 50%;
+    flex-grow: 1;
+    order: 1;
+
+    padding: 5%;
+
+}
+
+.flex {
+    display: flex;
+}
+
+.mittig {
+    padding-left: 5%;
+}
+
+.hoehe
+{
+    height: 25px;
+    float: left;
+}
